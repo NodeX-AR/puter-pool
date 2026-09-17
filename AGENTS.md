@@ -46,7 +46,8 @@ npm run typecheck
 After making changes:
 1. Run `npm run typecheck` to verify TypeScript types
 2. Run `npm test` to verify tests pass
-3. Run `npm run build` to verify compilation
+3. Run `npm run lint` to verify lint passes (0 errors; warnings are backlog)
+4. Run `npm run build` to verify compilation
 
 ## Docker Commands
 
