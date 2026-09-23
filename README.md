@@ -28,10 +28,10 @@
 
 ---
 ## How it works
-Basically this tool helps you exploit puter free 0.25$ ai credits, and pool them to a api endpoint which is compatible for openAI as well as Anthropic which you can use for your coding agents such as opencode etc
+Puter gives every free account a daily AI credit allowance. Puter Pool combines the allowances of accounts you own into a single OpenAI-compatible (`/v1/chat/completions`) and Anthropic-compatible (`/v1/messages`) endpoint, so coding agents (opencode, Claude Code, etc.) keep running without ever hitting a cap.
 
-## disclaimer
-puter now asks for phone verification that may affect how many accounts you create.
+## Notes
+Puter may ask for phone verification when creating accounts. Only pool accounts you own, and respect Puter's terms of service.
 
 ## ✨ Features
 
